@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    margin-bottom: 55px;
+}
+
+.container{
+    background-color: darkgray;
+    text-align: center;
+    height: 300px;
+    width: 800px;
+    border-style: none;
+    border-radius: 5px;
+    padding: 23px;
+}
+
+.first-value, .secound-value{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border-style: none;
+    padding-bottom: 10px;
+}
+
+.first-value{
+    margin-left: 20px;
+}
+
+.secound-value{
+    margin-left: 2px;
+    margin-bottom: 50px;
+}
+
+#add-btn{
+    border-style: none;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+#add-btn:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
